@@ -1,7 +1,7 @@
 # Newbie-Gains
- Just for practicing things.
+ This folder is for practicing new and different languages.
 
-## Personal Git Hub Portal
+# Personal Git Hub Portal
 | Personal Links | UAF Class Links | Research Links |  Other Links |
 | ---- | ---- | ---- | ---- |
 | [sowens23-GitHub](https://github.com/sowens23) | 22F 1st [CS-F201](https://github.com/sowens23/CS-F201) | [Drown Lab Research](https://github.com/sowens23/DevinDrownResearch)  | |
@@ -9,4 +9,4 @@
 | | 23F 2nd [CS-F301](https://github.com/sowens23/CS-F301) | | |
 | | 23F 2nd [CS-F311](https://github.com/sowens23/CS-F311) | | |
 
-## Other Links
+# Other Links
