@@ -1,0 +1,26 @@
+WASM Python Interpreter 
+import ospython get directory listing 
+import globprint(glob.glob("/**"))
+
+
+pyodide.org 
+• creating/ removing files
+• checking permissions
+• create 5g of files
+
+make a webpage out of an arbitrary webpage with python
+• make your own pyodide 
+• pyscript
+
+pyscript is the equivalent of running a preexisting script in the web browsing EnvironmentError
+
+create a webpage 
+
+Sammy download stuff pyscript to display 
+• sg/demo
+• Review stack
+
+• Get something in github that you can use, like reading from filesystem
+• embeds in pyscript 
+• Go to github, pull up html file and run pyscript
+• download an image from a search, pull image down, and scale it somehow?
