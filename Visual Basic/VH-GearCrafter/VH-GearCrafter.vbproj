@@ -1,0 +1,8 @@
+<PropertyGroup>
+  <OutputType>WinExe</OutputType>
+  <TargetFramework>net4.8</TargetFramework>
+  <StartupObject>VH_GearCrafter.MainModule</StartupObject>
+  <RootNamespace>VH_GearCrafter</RootNamespace>
+  <AssemblyName>VH_GearCrafter</AssemblyName>
+  <ApplicationIcon>VH-GearCrafter.ico</ApplicationIcon>
+</PropertyGroup>

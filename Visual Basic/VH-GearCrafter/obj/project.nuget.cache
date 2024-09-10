@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9qNkit/mKA=",
+  "success": true,
+  "projectFilePath": "E:\\OneDrive\\Documents\\GitHub\\Newbie-Gains\\Visual Basic\\VH-GearCrafter\\VH-GearCrafter.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheSp\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\TheSp\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

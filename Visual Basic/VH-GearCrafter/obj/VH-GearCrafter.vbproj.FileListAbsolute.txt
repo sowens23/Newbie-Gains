@@ -1,0 +1,2 @@
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\ResolveAssemblyReference.cache
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\VH_GearCrafter.VH-GearCrafter.ico

@@ -1,0 +1,6 @@
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\net4.8\VH-GearCrafter.vbproj.AssemblyReference.cache
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\net4.8\VH-GearCrafter.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\net4.8\VH-GearCrafter.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\net4.8\VH-GearCrafter.AssemblyInfo.vb
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\net4.8\VH-GearCrafter.vbproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\GitHub\Newbie-Gains\Visual Basic\VH-GearCrafter\obj\Debug\net4.8\VH-GearCrafter.sourcelink.json
