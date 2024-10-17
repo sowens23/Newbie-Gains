@@ -6,9 +6,6 @@
 ; is that the contents of the menu can change depending on which type of
 ; window is active (Notepad and Word are used as examples here).
 
-; Start ZoomIt
-Send("^1")
-
 ; You can set any title here for the menu:
 g_MenuTitle := "-~::~~--~~::~-"
 
@@ -26,7 +23,7 @@ g_UMDelay := 20
 
 ; Don't worry about the order, the menu will be sorted.
 
-g_MenuItems := "WhiteBoard/BlackBoard/Exit"
+g_MenuItems := "DrawOver/WhiteBoard/BlackBoard/Exit"
 
 ; Exit
 
@@ -34,6 +31,13 @@ g_MenuItems := "WhiteBoard/BlackBoard/Exit"
 ;_____Menu Sections_________________________
 
 ; Create / Edit Menu Sections here.
+
+DrawOver()
+{
+    Send("^1")
+    Sleep 100
+    Send("g")   
+}
 
 WhiteBoard()
 {
@@ -56,13 +60,13 @@ Exit()
 
 ;___________________________________________
 ;_____Hotkey Section________________________
+
 ~Esc:: {
-    ; Send("Esc")
     ExitApp()
 }
 
-~RButton::
-{
+; RButton::
+; {
     ; HowLong := 0
     ; Loop
     ; {
@@ -96,8 +100,9 @@ Exit()
         Hotkey "~LButton", "Off"
         if !WinActive(g_MenuTitle)
         {
-            ToolTip
-            return
+            ; ToolTip
+            ; return
+            ExitApp()
         }
 
         MouseGetPos &mX, &mY
@@ -108,4 +113,4 @@ Exit()
         TargetSection := MenuItem[Integer(mY)]
         %StrReplace(TargetSection, "`s")%()
     }
-}
+; }
