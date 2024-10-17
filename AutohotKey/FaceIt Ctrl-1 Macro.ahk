@@ -36,14 +36,16 @@ DrawOver()
 {
     Send("^1")
     Sleep 100
-    Send("g")   
+    Send("g")
+    ExitApp()
 }
 
 WhiteBoard()
 {
     Send("^1")
     Sleep 100
-    Send("w")   
+    Send("w")
+    ExitApp()
 }
 
 BlackBoard()
@@ -51,6 +53,7 @@ BlackBoard()
     Send("^1")
     Sleep 100
     Send("b")
+    ExitApp()
 }
 
 Exit()
