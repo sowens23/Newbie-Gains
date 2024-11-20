@@ -12,9 +12,6 @@ g_MenuTitle := "-~::~~--~~::~-"
 ; This is how long the mouse button must be held to cause the menu to appear:
 g_UMDelay := 20
 
-; #SingleInstance
-
-
 ;___________________________________________
 ;_____Menu Definitions______________________
 
@@ -23,7 +20,7 @@ g_UMDelay := 20
 
 ; Don't worry about the order, the menu will be sorted.
 
-g_MenuItems := "DrawOver/WhiteBoard/BlackBoard/Exit"
+g_MenuItems := "DrawOver/WhiteBoard/BlackBoard/SetPenSize/Exit"
 
 ; Exit
 
@@ -35,7 +32,8 @@ g_MenuItems := "DrawOver/WhiteBoard/BlackBoard/Exit"
 DrawOver()
 {
     Send("^1")
-    Sleep 100
+    Sleep 1000
+    ; Set pen to green
     Send("g")
     ExitApp()
 }
@@ -43,7 +41,7 @@ DrawOver()
 WhiteBoard()
 {
     Send("^1")
-    Sleep 100
+    Sleep 1000
     Send("w")
     ExitApp()
 }
@@ -51,8 +49,21 @@ WhiteBoard()
 BlackBoard()
 {
     Send("^1")
-    Sleep 100
-    Send("b")
+    Sleep 1000
+    Send("k")
+    ExitApp()
+}
+
+SetPenSize()
+{
+    ; Send("^1")
+    ; Sleep 1000
+    ; Send("{Ctrl down}") ; Hold control key
+    ; Loop, 40 {
+    ;     Send("{WheelUp}")
+    ;     Sleep 100
+    ; }
+    ; Send("{Ctrl up}") ; Release control key
     ExitApp()
 }
 
@@ -94,7 +105,7 @@ Exit()
     MouseGetPos &mX, &mY
     Hotkey "~LButton", MenuClick
     Hotkey "~LButton", "On"
-    ToolTip ToolTipMenu, SysGet(78)*0.99, SysGet(79)*0.2
+    ToolTip ToolTipMenu, SysGet(78)*0.5, SysGet(79)*0.5
     WinActivate g_MenuTitle
     WinGetPos ,,, &tH, g_MenuTitle
     
