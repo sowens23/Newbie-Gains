@@ -39,5 +39,5 @@ This repository is meant to serve as the portal for references, links, and colle
 ### Graduate Masters
 | Semester | Class 1 | Class 2 | Class 3 |
 | ---- | ---- | ---- | ---- |
-| 2027 Fall | [CS-600 Professional Software Development](https://github.com/sowens23/CS-600) | [CS-690 MS/CS Seminar](https://github.com/sowens23/CS-690) | CS-6XX Graduate CS Elective |
-| 2028 Spring | [CS-601 Algorithms, Architecture, and Languages](https://github.com/sowens23/CS-601) | [CS-691 MS/CS Seminar](https://github.com/sowens23/CS-691) | CS-??? Some Bullshit? |
+| 2027 Fall | [CS-F600 Professional Software Development](https://github.com/sowens23/CS-F600) | [CS-F690 Graduate Seminar and Project](https://github.com/sowens23/CS-F690) | CS-F6XX Graduate CS Elective |
+| 2028 Spring | [CS-F601 Algorithms, Architecture, and Languages](https://github.com/sowens23/CS-F601) | [CS-F691 Graduate Seminar and Project](https://github.com/sowens23/CS-F691) | CS-F6XX Graduate CS Elective |
