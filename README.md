@@ -15,7 +15,7 @@ This repository is meant to serve as the portal for references, links, and colle
 - [Markdown Emojis](https://github.com/markdown-templates/markdown-emojis)
 - Two spaces at the end of a line, will mark a new line
 
-## UAF Course Repository Portal
+## UAF Computer Science Course Portal
 ### Freshman
 | Semester | Class 1 |
 | ---- | ---- |
