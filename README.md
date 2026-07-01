@@ -34,8 +34,8 @@ This repository is meant to serve as the portal for references, links, and colle
 ### Senior
 | Semester | Class 1 | Class 2 |
 | ---- | ---- | ---- |
-| 2026 Fall | CS-F471 Senior Capstone I | CS-F411 Analysis of Algorithms |
-| 2027 Spring | CS-F472 Senior Capstone II | CS-F441 System Architecture |
+| 2026 Fall | [CS-F471 Senior Capstone I](https://github.com/sowens23/CS-F471) | [CS-F411 Analysis of Algorithms](https://github.com/sowens23/CS-F411) |
+| 2027 Spring | [CS-F472 Senior Capstone II](https://github.com/sowens23/CS-F472) | [CS-F441 System Architecture](https://github.com/sowens23/CS-F441) |
 ### Graduate Masters
 | Semester | Class 1 | Class 2 | Class 3 |
 | ---- | ---- | ---- | ---- |
