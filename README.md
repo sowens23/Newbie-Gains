@@ -90,8 +90,9 @@ CS student working toward a combined BS/MS, expected graduation 2028. Interested
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thespencerowens)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thespencerowens@outlook.com)
+[![LinkTr.ee](https://img.shields.io/badge/-LinkTree-FFFFFF?style=flat)](https://linktr.ee/thespencerowens)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat)](https://linkedin.com/in/thespencerowens)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat)](mailto:thespencerowens@outlook.com)
 
 ---
 
