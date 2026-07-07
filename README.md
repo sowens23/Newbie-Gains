@@ -7,13 +7,6 @@ CS student working toward a combined BS/MS, expected graduation 2028. Interested
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowens23&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowens23&layout=compact&theme=dark&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=sowens23&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sowens23&theme=dark)
-
----
-
 ## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
